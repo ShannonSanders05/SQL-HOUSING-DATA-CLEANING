@@ -1,4 +1,4 @@
-# Nashville Housing Dataset SQL Analysis and Cleaning
+## Nashville Housing Dataset SQL Analysis and Cleaning
 
 **Description**:
 
